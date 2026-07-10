@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'RUANG KONTROL — Gas Leak & IoT Monitoring',
+  title: 'Gas Leak & IoT Monitoring',
   description: 'Dashboard monitoring IoT dummy dengan sensor deteksi kebocoran gas.',
 };
 
