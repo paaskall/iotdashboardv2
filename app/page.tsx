@@ -36,9 +36,7 @@ export default function Page() {
             </div>
             <GasGauge ppm={sim.gasPpm} status={sim.gasStatus} />
             <p className="mt-3 text-center text-[11px] text-muted font-mono leading-relaxed">
-              Sensor deteksi kebocoran gas LPG / metana dummy.
-              <br />
-              Data disimulasikan untuk keperluan demo.
+              Sensor deteksi kebocoran gas LPG.
             </p>
           </div>
 
@@ -96,7 +94,7 @@ export default function Page() {
         </div>
 
         <footer className="text-center text-[11px] font-mono text-muted pt-4 pb-2">
-          Dashboard IoT dummy — seluruh nilai sensor disimulasikan secara acak di sisi klien untuk keperluan demo/prototipe.
+          Dashboard IoT
         </footer>
       </div>
     </main>
